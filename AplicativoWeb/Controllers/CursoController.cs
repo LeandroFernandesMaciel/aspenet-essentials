@@ -16,5 +16,8 @@ public IActionResult Index() {
     ViewData["titInt"] = c1.TituloInterno;
     ViewData["titMark"] = c1.TituloMarketing;
 return View();
+5
+
+
 }
 }
